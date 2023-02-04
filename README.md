@@ -1,4 +1,4 @@
-![Alt Text](img/code.jpg);
+![Demo Pic](public/img/code.jpg);
 
 
 #Code Editor for HTML, CSS, and JavaScript
